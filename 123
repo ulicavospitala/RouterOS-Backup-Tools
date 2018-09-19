@@ -1,0 +1,1 @@
+./ROSbackup.py decrypt -i MikroTik-encrypted.backup -o MikroTik-plaintext.backup -p password
